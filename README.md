@@ -1,4 +1,4 @@
-# ⚡ <QM.DEV/> — Cybercore Developer Portfolio
+# ⚡ <QM/> — Cybercore Developer Portfolio
 
 A sleek, lightweight, and responsive personal portfolio website with a cyberpunk/futuristic visual aesthetic, built for showcasing projects, technical skills, and software development background.
 
@@ -34,15 +34,27 @@ A sleek, lightweight, and responsive personal portfolio website with a cyberpunk
 
 
 .
-├── index.html          
-├── about.html          
-├── projects.html       
+
+├── index.html   
+
+├── about.html      
+
+├── projects.html    
+
 ├── contact.html
+
 ├── css/
+
 │   └── style.css    
+
 ├──images/
+
 │   └── bookbuddy.jpg
+
 │   └── pass.jpg
+
 │   └── store.jpg
+
 └── js/
-    └── script.js     
+
+  └── script.js   
